@@ -1,0 +1,2 @@
+zakupy, kupic pomidory
+praca,nauka pythona
