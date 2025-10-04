@@ -1,0 +1,30 @@
+import turtle
+
+window = turtle.Screen()
+window.bgcolor("light blue")
+window.title("Turtle")
+skk = turtle.Turtle()
+turtle.pensize(20)
+turtle.color("red")
+turtle.fillcolor("red")
+turtle.begin_fill()
+turtle.forward(250)
+turtle.right(120)
+turtle.forward(500)
+turtle.right(120)
+turtle.forward(500)
+turtle.right(120)
+turtle.forward(500)
+turtle.end_fill()
+
+turtle.begin_fill()
+turtle.left(90)
+turtle.circle(125, 180)
+turtle.end_fill()
+
+turtle.begin_fill()
+turtle.left(180)
+turtle.circle(125, 180)
+turtle.end_fill()
+
+turtle.done()

@@ -24,29 +24,29 @@ Word Counter DONE
 
 Encryption App (e.g., Caesar cipher) DONE
 
-PDF Merger/Splitter IN PROGRESS
+PDF Merger/Splitter DONE
 
 3. Text games and logic (5 projects)
 
-Hangman Game
+Hangman Game DONE
 
-Tic Tac Toe (2 players in console)
+Tic Tac Toe (2 players in console) DONE
 
-Console Quiz (multiple-choice questions)
+Console Quiz (multiple-choice questions) DONE
 
-Number Guessing Game
+Number Guessing Game DONE
 
-Rock, Paper, Scissors
+Rock, Paper, Scissors DONE
 
 4. Simple library projects (5 projects)
 
-Simple drawing with Turtle
+Simple drawing with Turtle DONE
 
-GUI Calculator (Tkinter)
+GUI Calculator (Tkinter) DONE
 
-Weather Reader from API (requests + JSON)
+Weather Reader from API (requests + JSON) DONE
 
-Web Scraper (BeautifulSoup – get quotes from a website)
+Web Scraper (BeautifulSoup – get quotes from a website) IN PROGRESS
 
 Simple Data Visualization (matplotlib – charts)
 

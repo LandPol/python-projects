@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Który język programowania jest używany do tworzenia aplikacji w Flutterze?",
+    "options": ["A. Dart", "B. Python", "C. JavaScript", "D. C++"],
+    "answer": "A"
+  },
+  {
+    "question": "Która metoda w Pythonie służy do dodania elementu na końcu listy?",
+    "options": ["A. add()", "B. push()", "C. append()", "D. insert()"],
+    "answer": "C"
+  },
+  {
+    "question": "Jakiego typu strukturą danych jest słownik (dictionary) w Pythonie?",
+    "options": ["A. Kolekcja uporządkowana", "B. Kolekcja par klucz-wartość", "C. Kolekcja unikalnych wartości", "D. Tablica"],
+    "answer": "B"
+  },
+  {
+    "question": "Który z poniższych operatorów w Pythonie służy do potęgowania?",
+    "options": ["A. ^", "B. **", "C. pow()", "D. //"],
+    "answer": "B"
+  },
+  {
+    "question": "Co zwróci wyrażenie: len([1, 2, 3, 4])?",
+    "options": ["A. 3", "B. 4", "C. [1,2,3,4]", "D. Błąd"],
+    "answer": "B"
+  },
+  {
+    "question": "Która biblioteka w Pythonie służy głównie do pracy z danymi w tabelach (DataFrame)?",
+    "options": ["A. numpy", "B. matplotlib", "C. pandas", "D. flask"],
+    "answer": "C"
+  },
+  {
+    "question": "Które z poniższych wywołań tworzy pusty zbiór (set) w Pythonie?",
+    "options": ["A. {}", "B. set()", "C. []", "D. empty()"],
+    "answer": "B"
+  },
+  {
+    "question": "Jaki jest wynik: 7 // 2 w Pythonie?",
+    "options": ["A. 3.5", "B. 3", "C. 4", "D. 2"],
+    "answer": "B"
+  },
+  {
+    "question": "Jak nazywa się mechanizm w Pythonie służący do obsługi błędów?",
+    "options": ["A. try/except", "B. if/else", "C. switch/case", "D. throw/catch"],
+    "answer": "A"
+  },
+  {
+    "question": "Która z poniższych metod zamienia wszystkie litery w stringu na wielkie?",
+    "options": ["A. upper()", "B. capitalize()", "C. title()", "D. toUpper()"],
+    "answer": "A"
+  }
+]
